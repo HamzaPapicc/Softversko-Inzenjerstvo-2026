@@ -22,7 +22,7 @@
 
 # Korisnički deo
 ## Uvod
-Dobrodošli u zvaničnu dokumentaciju Oglasi za Posao Novi Pazar (u nastavku "OPNP"). Ova dokumentacija je namenjena korisnicima kojima treba pomoć pri korišćenju sajta i developerima koji razvijaju funkcionalnosti sajta. Ovdee ćete pronaći detaljna uputstva za korišćenje svih funkcionalnosti, kao i tehničke informacije za razvoj i integraciju dodatnih opcija.\
+Dobrodošli u zvaničnu dokumentaciju Oglasi za Posao Novi Pazar (u nastavku "OPNP"). Ova dokumentacija je namenjena korisnicima kojima treba pomoć pri korišćenju sajta i developerima koji razvijaju funkcionalnosti sajta. Ovde ćete pronaći detaljna uputstva za korišćenje svih funkcionalnosti, kao i tehničke informacije za razvoj i integraciju dodatnih opcija.\
 OPNP omogućava korisnicima jednostavno pretraživanje, postavljanje i upravljanje oglasima, dok pruža developerima mogućnost da prošire funkcionalnosti ili implementiraju dodatne funkcije prema potrebama. Naša misija je da stvorimo intuitivan i efikasan alat za sve koji žele da pronađu željeni posao na internetu.
 ## Glavna strana
 Glavna strana OPNP je prva strana kojom će te pristupiti pri ulazku na sajt, sa njene leve strane je prisutan meni koji ulazi dublje u funkcionalnosti sajta. Na glavnoj strani, ispod naslova, možete naći traku za pretragu, kao i nedavno objavljene oglase za posao.\
