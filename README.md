@@ -11,8 +11,7 @@
    3.1 Prijava i registracija\
    3.2 Pretraživanje\
         3.2.1 Filteri\
-   3.3 Prijava i registracija naloga\
-   3.4 Upravljanje svojim oglasima
+   3.3 Upravljanje svojim oglasima
 ### Developer deo
 1. Uvod
 2. ...
@@ -75,3 +74,47 @@ Meni služi za dalje i detaljnije pregledanje oglasa. Na njemu se nalaze funkcio
 6. **Filteri za tip posla:** Na meniju se nalaze filteri koji omogućavaju korisnicima da suže pretragu prema tipu posla, korisnici mogu selektovati jedan ili više tipova posla. Filteri takođe omogućavaju preciznije traženje kao što je grad, radno vreme, plata i drugo. Korišćenjem filtera, korisnici mogu izabrati poslove koji odgovaraju njihovim željama u vezi bilo čega.
 
 ### 3.1 Prijava i registracija
+- ### Prijava
+### ***Napomena!:*** <ins>Da bi ste se prijavili, prvo morate biti registrovani.</ins>
+Klikom na dugme "Prijavi se" koje se nalazi u meniju sajta, izaći će vam prozor na sredini stranice, koji će u sebi imati sledeće upite:
+- Email
+- Lozinku
+> <ins>Ako ste zaboravili lozinku, imate opciju da resetujute lozinku, klikom na odrećeni tekst, koji se nalazi ispod navedenih upita, pre dugmeta za podnošenje prijave.</ins>
+
+Nakon što ste uneli podatke, kliknite na dugme "Prijava" koje se nalazi ispod svih upita, ako su vaši podaci tačni, bićete prijavljeni i preusmereni na početnu stranicu.\
+Nakon prijave, dugmad za prijavu i registraciju će biti zamenjena slikom vašeg profila (ukoliko ste je stavili, u suprotnom biće prikazan placeholder slike), zajedno sa vašim korisničkim imenom i dugmetom za odjavu.
+- ### Registracija
+Ako nemate nalog, potrebno je da se registrujete kako biste imali potpuni pristup funkcionalnostima sajta. Možete se registrovati klikom na dugme "Registrujte se" koje se nalazi u meniju, nakon čega će vam izaći prozor na sredini stranice koje će sadržati sledeće upite:
+- Korisničko ime
+- Email adresa
+- Lozinka
+- Potvrda lozinke\
+Nakon popunjavanja forme, kliknite na dugme "Registruj se", nakon toga, novi prozor će vam izaći, tražeći vam kôd. Na vaš email će biti poslat verifikacioni kôd. Unesite ga kako biste potvrdili svoj nalog.\
+
+### ***Napomena!***: <ins>Mi vam nikada nećemo poslati email ili poruku, tražeći vaše podatke. Čuvajte se od prevara.</ins>
+### 3.2 Pretraživanje
+Pretraživanje oglasa se radi pomoću trake za pretraživanje prikazano na glavnoj strani ili u meniju. U njoj direktno možete ukucati naziv oglasa ukoliko sigurno znate oglas koji vas interesuje. Pored pretrage preko naziva oglasa, OPNP daje jos sledeće mogućnosti:
+- **Pretraga po ključnim rečima:** Korisnici mogu upisivati specifične fraze ili reči vezane za poziciju, firmu, lokaciju, itd.
+
+- **Automatski predlozi:** Dok korisnik upisuje, aplikacija može automatski predlagati ključne reči ili popularne pretrage.
+
+- **Pretraga po kategorijama:** Pored slobodnog unosa, korisnici mogu odabrati određene kategorije industrije koje ih zanima (npr. "IT", "Marketing", "Zdravstvo") za precizniju pretragu.
+### 3.2.1 Filteri
+Filteri vam omogućavaju da jos više i detaljnije sužite vaš prikaz oglasa na one koji vas najviše zanimaju, sa njima možete izolovati industrije i pozicije koje vama odgovaraju.
+> Na primer: Filtrirajući mesto rada na "Kafić", vama će biti prikazivani samo poslovi vezani za tu vrstu radne ustanove, to bi mogli biti:
+> - Konobar
+> - Šanker
+>  
+> ove pozicije možete dalje filtrirati, klikom na opciju "Konobar", dobijat ćete samo oglase gde se kraži konobar u kafićima.
+
+### 3.3 Upravljanje svojim oglasima
+Nakon regisracije i prijave, dobit ćete mogućnost objave svojih oglasa, klikom na dugme "Objavite oglas", koje se nalazi ispod dugmeta za odjavu u meniju. Nakon klika, izaći će vam prozor koji vam daje sledeće upite:
+- Baner (opcionalno, baner birate tako što unosite sliku sa vašeg uređaja)
+- Naziv oglasa
+- Opis posla
+- Tip radnika koji je tražen
+- Ime i adresu firme/poslovnog mesta/preduzeća
+- Email (možete ostaviti prazno ukoliko želite da koristite email sa vašeg naloga)
+- Broj telefona (opcionalan, stojaće pored unesenog email-a)
+- Platu
+- Radno vreme
