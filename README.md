@@ -12,8 +12,8 @@
    3.2 Pretraživanje\
         3.2.1 Filteri\
    3.3 Upravljanje svojim oglasima
-4. Profili
-   4.1 Uređivanje
+4. Profili\
+   4.1 Uređivanje\
    4.2 Oglasi
 ### Developer deo
 1. Uvod
