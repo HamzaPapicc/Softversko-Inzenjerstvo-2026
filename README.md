@@ -12,6 +12,9 @@
    3.2 Pretraživanje\
         3.2.1 Filteri\
    3.3 Upravljanje svojim oglasima
+4. Profili
+   4.1 Uređivanje
+   4.2 Oglasi
 ### Developer deo
 1. Uvod
 2. ...
@@ -118,3 +121,17 @@ Nakon regisracije i prijave, dobit ćete mogućnost objave svojih oglasa, klikom
 - Broj telefona (opcionalan, stojaće pored unesenog email-a)
 - Platu
 - Radno vreme
+Nakon uspešnog objavljivanja oglasa, na njima ćete imati dugmad za uređivanje oglasa i brisanje oglasa, koja se nalaze na gornjem desnom uglu oglasa. Ovu mogućnost imate samo nad oglasima koje ste vi objavili. Ukoliko želite da vidite sve vaše oglase, idite u meni i kliknite na vašu profilnu sliku (ukoliko niste postavili sliku, kliknite na placeholder) ili na vaše ime i otićiće te na vaš profil, gde će biti prikazani svi oglasi koje ste objavili, profili su detaljnije objašnjeni u sledećem polju.
+## 4. Profili
+Korisnik ima mogućnost proveravati profile drugih korisnika, uglavnom poslodavaca. Na profilima se mogu naći slika (ukoliko je postavljena, u suprotnom se pojavljuje placeholder), korisničko ime i opis. Ispod dela u kome se nalaze prethodno navedene informacije, mogu se naći oglasi koje je korisnik objavio.
+### 4.1 Uređivanje
+Prijavljeni korisnik ima mogućnost daljeg uređivanja svog profila nakon registracije. Korisnik na svom profilu imaće dugme u gornjem desnom uglu, koje ga vodi ka stranici za izmenu prfoila. Na toj stranici se mogu promeniti informacije koje su unete pri registraciji, a takođe se mogu dodati i sledeće stavke:
+- Profilna slika
+- Baner profila
+- Opis
+- Kontaktni email i/ili telefon
+- Adresa firme/poslovnog mesta/preduzeća\
+Ispod svih ovih upita, nalazi se dugme za brisanje naloga, koje korisnik može da iskoristi ako bi mu to zatrebalo.
+### 4.2 Oglasi
+Korsnik može ući na svoj profill ili profil drugog korisnika kako bi mogao videti sve oglase koje su objavljeni sa tog profila. Korisnik takođe ima mogućnosti filtriranja i sortiranja na prethodno navedene načine.
+> Pogledajte <ins>2.2 Prikaz oglasa</ins> i <ins>3.2.1 Filteri</ins>
