@@ -135,3 +135,6 @@ Ispod svih ovih upita, nalazi se dugme za brisanje naloga, koje korisnik može d
 ### 4.2 Oglasi
 Korsnik može ući na svoj profill ili profil drugog korisnika kako bi mogao videti sve oglase koje su objavljeni sa tog profila. Korisnik takođe ima mogućnosti filtriranja i sortiranja na prethodno navedene načine.
 > Pogledajte <ins>2.2 Prikaz oglasa</ins> i <ins>3.2.1 Filteri</ins>
+# Developer deo
+## 1. Uvod
+U ovom delu dokumentacije se nalaze informacije koje bi pomogle developerima za dalju izrade web aplikacije, u njemu možete naći detaljno upisane funkcionalnosti.
